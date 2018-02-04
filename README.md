@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the repository for the alpha blog Ruby Rails application.
 
 Things you may want to cover:
 
